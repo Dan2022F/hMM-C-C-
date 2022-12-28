@@ -5,5 +5,5 @@ Code blocks is IDEA for C/C++.
 create this project in Code Blocks.  
 ___
 ```c++
-cout << lolka << endl;
+forgeC --c --l
 ```
