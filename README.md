@@ -4,6 +4,6 @@ Download IDEA link in "surceforge.net".
 Code blocks is IDEA for C/C++. 
 create this project in Code Blocks.  
 ___
-```C++
+```c++
 cout << lolka << endl;
 ```
