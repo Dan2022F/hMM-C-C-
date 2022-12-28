@@ -3,5 +3,5 @@ http://sourceforge.net/projects/codeblocks/files/Binaries/20.03/Windows/codebloc
 Download IDEA link in "surceforge.net". 
 ___
 Code blocks is IDEA for C/C++. 
-___
+___Project
 create this project in Code Blocks.  
